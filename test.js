@@ -1,1 +1,4 @@
-window.print();  
+printAAA(){
+  window.print();  
+}
+printAAA();
